@@ -27,19 +27,20 @@
 ---
 
 ## 💡 Tech Stack
-- **Languages**:  
-  ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-  ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=white)
-  ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
-- **Databases**:  
-  ![SQL](https://img.shields.io/badge/SQL-003B57?style=flat-square&logo=postgresql&logoColor=white)
-  ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
+### **Languages**  
+<a href="https://isocpp.org/"><img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white&logoWidth=20&labelColor=00599C" alt="C++ Badge"></a> 
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&logoWidth=20&labelColor=F7DF1E" alt="JavaScript Badge"></a>
+<a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&logoWidth=20&labelColor=3776AB" alt="Python Badge"></a>
 
-- **Tools & Frameworks**:  
-  ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-  ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
-  ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+### **Databases**  
+<a href="https://www.postgresql.org/"><img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white&logoWidth=20&labelColor=336791" alt="SQL Badge"></a>
+<a href="https://www.mongodb.com/"><img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white&logoWidth=20&labelColor=47A248" alt="MongoDB Badge"></a>
+
+### **Tools & Frameworks**  
+<a href="https://nodejs.org/"><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white&logoWidth=20&labelColor=339933" alt="Node.js Badge"></a>
+<a href="https://expressjs.com/"><img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white&logoWidth=20&labelColor=000000" alt="Express.js Badge"></a>
+<a href="https://reactjs.org/"><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB&logoWidth=20&labelColor=20232A" alt="React Badge"></a>
 
 ---
 
@@ -54,3 +55,4 @@
 ---
 
 ⭐ **Thanks for visiting my profile! Feel free to connect with me on any of the platforms above.**
+
