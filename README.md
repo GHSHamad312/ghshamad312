@@ -1,126 +1,120 @@
 <!-- Animated Header -->
-<div align="center">
+<div align="left">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=20C997&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Hamad+Ali+Shah;CS+Undergrad+@NUST;Web+%26+AI+Developer;Open-Source+Enthusiast" alt="Typing SVG" />
 </div>
 
-<!-- Profile Views -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ghshamad312&color=20C997&style=flat-square" alt="profile views" />
-</p>
+###
 
-<!-- About Me Section -->
+
+###
+
+<br clear="both">
+
+<h2 align="center">Programming Languages</h2>
+
+###
+
+<br clear="both">
+
 <div align="center">
-  <h2 style="border-bottom: 3px solid #20C997; display: inline-block; padding-bottom: 5px;">🎓 About Me</h2>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="45" alt="cplusplus logo"  />
+  <img width="25" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="45" alt="python logo"  />
+  <img width="25" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="45" alt="javascript logo"  />
 </div>
+
+###
+
+<br clear="both">
+
+<h2 align="center">Frontend Development</h2>
+
+###
+
+<br clear="both">
 
 <div align="center">
-  <div style="display: flex; justify-content: center; gap: 50px; margin: 20px 0;">
-    <div style="text-align: left;">
-      <strong>🔭 Currently:</strong><br>
-      • 3rd Year CS Student @ NUST<br>
-      • Learning ML & Advanced DSA<br>
-      • Building AI solutions<br>
-    </div>
-    <div style="text-align: left;">
-      <strong>🚀 Aspiring:</strong><br>
-      • Full-stack Developer<br>
-      • AI Engineer<br>
-      • Open Source Contributor<br>
-    </div>
-  </div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="45" alt="html5 logo"  />
+  <img width="25" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="45" alt="css3 logo"  />
+  <img width="25" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" height="45" alt="react logo"  />
+  <img width="25" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="45" alt="tailwindcss logo"  />
 </div>
 
-<!-- Animated Tech Stack -->
+###
+
+<br clear="both">
+
+<h2 align="center">Backend Development</h2>
+
+###
+
+<br clear="both">
+
 <div align="center">
-  <h2 style="border-bottom: 3px solid #20C997; display: inline-block; padding-bottom: 5px;">🛠 Tech Stack</h2>
-  <br><br>
-  
-  <div style="display: flex;">
-    Languages 
-    <div style="text-align: center;">
-      <img src="https://skillicons.dev/icons?i=cpp" alt="C++" style="height: 50px; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'">
-      <br><strong>C++</strong>
-    </div>
-    <div style="text-align: center;">
-      <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" style="height: 50px; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'">
-      <br><strong>JavaScript</strong>
-    </div>
-    <div style="text-align: center;">
-      <img src="https://skillicons.dev/icons?i=py" alt="Python" style="height: 50px; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'">
-      <br><strong>Python</strong>
-    </div>
-    Mobile & Frontend 
-    <div style="text-align: center;">
-      <img src="https://skillicons.dev/icons?i=flutter" alt="Flutter" style="height: 50px; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'">
-      <br><strong>Flutter</strong>
-    </div>
-    <div style="text-align: center;">
-      <img src="https://skillicons.dev/icons?i=dart" alt="Dart" style="height: 50px; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'">
-      <br><strong>Dart</strong>
-    </div>
-    <div style="text-align: center;">
-      <img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js" style="height: 50px; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'">
-      <br><strong>Next.js</strong>
-    </div>
-     Databases 
-    <div style="text-align: center;">
-      <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" style="height: 50px; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'">
-      <br><strong>MySQL</strong>
-    </div>
-    <div style="text-align: center;">
-      <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" style="height: 50px; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'">
-      <br><strong>MongoDB</strong>
-    </div>
-    Backend 
-    <div style="text-align: center;">
-      <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" style="height: 50px; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'">
-      <br><strong>Node.js</strong>
-    </div>
-    <div style="text-align: center;">
-      <img src="https://skillicons.dev/icons?i=express" alt="Express" style="height: 50px; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'">
-      <br><strong>Express</strong>
-    </div>
-    <div style="text-align: center;">
-      <img src="https://skillicons.dev/icons?i=react" alt="React" style="height: 50px; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'">
-      <br><strong>React</strong>
-    </div>
-  </div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="45" alt="nodejs logo"  />
+  <img width="25" />
+  <img src="https://skillicons.dev/icons?i=express" height="45" alt="express logo"  />
 </div>
 
-<!-- GitHub Stats -->
+###
+
+<br clear="both">
+
+<h2 align="center">Mobile App Development</h2>
+
+###
+
+<br clear="both">
+
 <div align="center">
-  <h2 style="border-bottom: 3px solid #20C997; display: inline-block; padding-bottom: 5px; margin-top: 30px;">📈 GitHub Stats</h2>
-  <br>
-  
-  <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ghshamad312&show_icons=true&theme=vue-dark&count_private=true&bg_color=00000000&hide_border=true" />
-    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=ghshamad312&theme=vue-dark&background=00000000&hide_border=true" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghshamad312&layout=compact&theme=vue-dark&bg_color=00000000&hide_border=true" />
-  </div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="45" alt="flutter logo"  />
+  <img width="25" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="45" alt="dart logo"  />
 </div>
 
-<!-- Connect Section -->
+###
+
+<br clear="both">
+
+<h2 align="center">Database</h2>
+
+###
+
 <div align="center">
-  <h2 style="border-bottom: 3px solid #20C997; display: inline-block; padding-bottom: 5px;">🌐 Connect With Me</h2>
-  <br>
-  
-  <div style="display: flex; gap: 15px; justify-content: center;">
-    <a href="mailto:ghshamad312@gmail.com">
-      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'">
-    </a>
-    <a href="https://linkedin.com/in/yourprofile">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'">
-    </a>
-    <a href="https://leetcode.com/yourprofile">
-      <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'">
-    </a>
-  </div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="45" alt="mysql logo"  />
+  <img width="25" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="45" alt="mongodb logo"  />
 </div>
 
-<!-- Footer -->
-<div align="center" style="margin-top: 40px;">
-  <p style="font-size: 0.9em; color: #666;">
-    <i>⚡ "First, solve the problem. Then write the code."</i><br>
-    <i>🌟 Keep coding, keep learning!</i>
-  </p>
+###
+
+<br clear="both">
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ghshamad312&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ghshamad312&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/ghshamad312/ghshamad312/output/snake.svg" alt="Snake animation" />
+
+###
+
+<br clear="both">
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="80" height="45" alt="linkedin logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="80" height="45" alt="twitter logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="80" height="45" alt="discord logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="80" height="45" alt="facebook logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="80" height="45" alt="instagram logo"  />
+</div>
+
+###
