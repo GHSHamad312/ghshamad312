@@ -35,7 +35,7 @@
   <h2 style="border-bottom: 3px solid #20C997; display: inline-block; padding-bottom: 5px;">🛠 Tech Stack</h2>
   <br><br>
   
-  <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(100px, 1fr)); gap: 20px; justify-items: center;">
+  <div style="display: flex;">
     Languages 
     <div style="text-align: center;">
       <img src="https://skillicons.dev/icons?i=cpp" alt="C++" style="height: 50px; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'">
