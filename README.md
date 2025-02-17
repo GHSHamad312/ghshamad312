@@ -123,14 +123,3 @@
     <i>🌟 Keep coding, keep learning!</i>
   </p>
 </div>
-
-<style>
-  h2 {
-    color: #20C997;
-    margin: 25px 0;
-  }
-  strong {
-    color: #fff;
-    font-size: 1.1em;
-  }
-</style>
