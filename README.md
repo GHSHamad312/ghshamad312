@@ -4,9 +4,6 @@
 </div>
 <img align="right" height="150" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXB2b2t3ODRhZzJzZGF1OWo1ajdnNGh2aWM3M3R1dGd3Y2M3NTl0byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ua7vVw9awZKWwLSYpW/giphy.gif"  />
 
-###
-
-<h2 align="left">Hi, i'm  hamad ali shah</h2>
 
 ###
 
