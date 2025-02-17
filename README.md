@@ -1,6 +1,6 @@
 <!-- Animated Header -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=20C997&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Hamad+Ali+Shah;CS+Undergrad+@NUST;Web+%26+AI+Developer;Open-Source+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=20C997&center=true&vCenter=true&width=435&lines=%F0%9F%91%8B%2C+I'm+Hamad+Ali+Shah;CS+Undergrad+@NUST;Web+%26+AI+Developer;Open-Source+Enthusiast" alt="Typing SVG" />
 </div>
 
 <!-- Profile Views -->
@@ -35,7 +35,7 @@
   <h2 style="border-bottom: 3px solid #20C997; display: inline-block; padding-bottom: 5px;">🛠 Tech Stack</h2>
   <br><br>
   
-  <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(100px, 1fr)); gap: 20px; justify-items: center;">
+  <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(500px, 1fr)); gap: 20px; justify-items: center;">
     <!-- Languages -->
     <div style="text-align: center;">
       <img src="https://skillicons.dev/icons?i=cpp" alt="C++" style="height: 50px; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'">
