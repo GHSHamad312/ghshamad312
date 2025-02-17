@@ -36,7 +36,7 @@
   <br><br>
   
   <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(100px, 1fr)); gap: 20px; justify-items: center;">
-    <!-- Languages -->
+    Languages 
     <div style="text-align: center;">
       <img src="https://skillicons.dev/icons?i=cpp" alt="C++" style="height: 50px; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'">
       <br><strong>C++</strong>
@@ -49,8 +49,7 @@
       <img src="https://skillicons.dev/icons?i=py" alt="Python" style="height: 50px; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'">
       <br><strong>Python</strong>
     </div>
-
-    <!-- Mobile & Frontend -->
+    Mobile & Frontend 
     <div style="text-align: center;">
       <img src="https://skillicons.dev/icons?i=flutter" alt="Flutter" style="height: 50px; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'">
       <br><strong>Flutter</strong>
@@ -63,8 +62,7 @@
       <img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js" style="height: 50px; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'">
       <br><strong>Next.js</strong>
     </div>
-
-    <!-- Databases -->
+     Databases 
     <div style="text-align: center;">
       <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" style="height: 50px; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'">
       <br><strong>MySQL</strong>
@@ -73,8 +71,7 @@
       <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" style="height: 50px; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'">
       <br><strong>MongoDB</strong>
     </div>
-
-    <!-- Backend -->
+    Backend 
     <div style="text-align: center;">
       <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" style="height: 50px; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'">
       <br><strong>Node.js</strong>
@@ -127,14 +124,3 @@
     <i>🌟 Keep coding, keep learning!</i>
   </p>
 </div>
-
-<style>
-  h2 {
-    color: #20C997;
-    margin: 25px 0;
-  }
-  strong {
-    color: #fff;
-    font-size: 1.1em;
-  }
-</style>
