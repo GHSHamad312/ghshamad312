@@ -57,7 +57,7 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ghshamad312&theme=dark" alt="Contribution Grid" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ghshamad312&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="Contribution Grid" />
 </div>
 
 ###
