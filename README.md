@@ -57,7 +57,7 @@
 ###
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/ghshamad312/ghshamad312/output/snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/ghshamad312/ghshamad312/output" alt="Snake animation" />
 </div>
 
 ###
