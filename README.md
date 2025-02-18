@@ -1,5 +1,5 @@
 <!-- Animated Header -->
-<div align="center" style="margin-bottom: 20px;">
+<div align="center" justify="center" style="margin-bottom: 20px;">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=20C997&center=true&vCenter=true&width=500&lines=Hi+%F0%9F%91%8B%2C+I'm+Hamad+Ali+Shah;CS+Undergrad+@NUST;Web+%26+AI+Developer;Open-Source+Enthusiast" alt="Typing SVG" />
   <img align="right" height="170" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXB2b2t3ODRhZzJzZGF1OWo1ajdnNGh2aWM3M3R1dGd3Y2M3NTl0byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ua7vVw9awZKWwLSYpW/giphy.gif"  />
 </div>
