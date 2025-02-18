@@ -1,6 +1,6 @@
 <!-- Animated Header -->
-<div align="center" justify="center" style="margin-bottom: 20px;">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=20C997&center=true&vCenter=true&width=500&lines=Hi+%F0%9F%91%8B%2C+I'm+Hamad+Ali+Shah;CS+Undergrad+@NUST;Web+%26+AI+Developer;Open-Source+Enthusiast" alt="Typing SVG" />
+<div align="center" style="margin-bottom: 20px;">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=9720C9&center=true&vCenter=true&width=500&lines=%F0%9F%91%8B%2C+I'm+Hamad+Ali+Shah;CS+Undergrad+@NUST;Web+%26+AI+Developer;Open-Source+Enthusiast" alt="Typing SVG" />
   <img align="right" height="170" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXB2b2t3ODRhZzJzZGF1OWo1ajdnNGh2aWM3M3R1dGd3Y2M3NTl0byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ua7vVw9awZKWwLSYpW/giphy.gif"  />
 </div>
 
@@ -8,7 +8,7 @@
 
 <h2 align="center">🛠️ Technologies & Tools</h2>
 
-### 
+###
 
 <div align="center">
   <h3>Programming Languages</h3>
@@ -57,7 +57,7 @@
 ###
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/ghshamad312/ghshamad312/output" alt="Snake animation" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ghshamad312&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph" />
 </div>
 
 ###
@@ -67,13 +67,13 @@
 <h2 align="center">📫 Let's Connect</h2>
 
 <div align="center" style="display: flex; justify-content: center; gap: 25px; margin-top: 20px;">
-  <a href="https://linkedin.com/in/yourprofile">
+  <a href="https://linkedin.com/in/hamad-ali-shah">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="40" alt="linkedin" />
   </a>
-  <a href="https://twitter.com/yourhandle">
+  <a href="https://twitter.com/hamadcodess">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" height="40" alt="twitter" />
   </a>
-  <a href="mailto:youremail@gmail.com">
+  <a href="mailto:hamad.ali312@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="40" alt="gmail" />
   </a>
 </div>
