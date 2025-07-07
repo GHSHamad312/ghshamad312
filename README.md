@@ -52,36 +52,52 @@ A **Computer Science undergraduate** @Nust with a strong passion for Machine Lea
 ---
 
 ## 🚀 Featured Projects
-<div align="center" style="margin: 30px 0;">
-  <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px; max-width: 1000px;">
-    <div style="background: #1F2937; padding: 20px; border-radius: 15px; box-shadow: 0 4px 15px rgba(0,0,0,0.2); transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
-      <h4 style="color: #7C3AED; font-weight: 600; font-family: 'Poppins', sans-serif;">Go Green Quetta</h4>
-      <p style="color: #D1D5DB; font-family: 'Poppins', sans-serif;">A Flutter-based Android app for eco-friendly bus transportation in Quetta, aimed at promoting sustainable travel. Currently in development to serve the local community.</p>
-      <a href="https://github.com/GHSHamad312/GoGreenQuetta" style="color: #7C3AED; text-decoration: none; font-family: 'Poppins', sans-serif;">View on GitHub</a>
+
+<div align="center" style="margin: 40px 0;">
+  <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(320px, 1fr)); gap: 25px; max-width: 1200px; padding: 0 20px;">
+    <div style="background: linear-gradient(145deg, #2D3748, #1F2937); padding: 25px; border-radius: 20px; box-shadow: 0 6px 20px rgba(0,0,0,0.3), 0 0 10px rgba(124, 58, 237, 0.2); transition: transform 0.3s ease, box-shadow 0.3s ease;" onmouseover="this.style.transform='scale(1.03)'; this.style.boxShadow='0 8px 25px rgba(0,0,0,0.4), 0 0 15px rgba(124, 58, 237, 0.4)'" onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='0 6px 20px rgba(0,0,0,0.3), 0 0 10px rgba(124, 58, 237, 0.2)'">
+      <div style="display: flex; align-items: center; gap: 15px;">
+        <script src="https://unpkg.com/@lottiefiles/lottie-player@latest/dist/lottie-player.js"></script>
+        <lottie-player src="https://lottie.host/9ef94bb1-68e3-4f77-8fcc-46104dff4547/0a1b2c3d4e.json" background="transparent" speed="1" style="width: 50px; height: 50px;" loop autoplay></lottie-player>
+        <h4 style="color: #7C3AED; font-weight: 700; font-family: 'Poppins', sans-serif; font-size: 1.5em; margin: 0;">Go Green Quetta</h4>
+      </div>
+      <p style="color: #E5E7EB; font-family: 'Poppins', sans-serif; font-size: 0.95em; line-height: 1.5; margin: 15px 0;">A Flutter-based Android app promoting eco-friendly bus transport in Quetta, designed to enhance sustainable urban mobility. Currently in development.</p>
+      <a href="https://github.com/ghshamad312/go-green-quetta" style="color: #7C3AED; text-decoration: none; font-family: 'Poppins', sans-serif; font-weight: 500; font-size: 0.9em; transition: color 0.3s;" onmouseover="this.style.color='#A78BFA'" onmouseout="this.style.color='#7C3AED'">View on GitHub</a>
     </div>
-    <div style="background: #1F2937; padding: 20px; border-radius: 15px; box-shadow: 0 4px 15px rgba(0,0,0,0.2); transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
-      <h4 style="color: #7C3AED; font-weight: 600; font-family: 'Poppins', sans-serif;">ConvoNest</h4>
-      <p style="color: #D1D5DB; font-family: 'Poppins', sans-serif;">An end-to-end encrypted chat application built with React, Express, MongoDB, Axios, JWT, and Nodemailer. Features AES and RSA encryption with hashed passwords for secure communication.</p>
-      <a href="https://github.com/ghshamad312/convonest" style="color: #7C3AED; text-decoration: none; font-family: 'Poppins', sans-serif;">View on GitHub</a>
+    <div style="background: linear-gradient(145deg, #2D3748, #1F2937); padding: 25px; border-radius: 20px; box-shadow: 0 6px 20px rgba(0,0,0,0.3), 0 0 10px rgba(124, 58, 237, 0.2); transition: transform 0.3s ease, box-shadow 0.3s ease;" onmouseover="this.style.transform='scale(1.03)'; this.style.boxShadow='0 8px 25px rgba(0,0,0,0.4), 0 0 15px rgba(124, 58, 237, 0.4)'" onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='0 6px 20px rgba(0,0,0,0.3), 0 0 10px rgba(124, 58, 237, 0.2)'">
+      <div style="display: flex; align-items: center; gap: 15px;">
+        <lottie-player src="https://lottie.host/9ef94bb1-68e3-4f77-8fcc-46104dff4547/1b2c3d4e5f.json" background="transparent" speed="1" style="width: 50px; height: 50px;" loop autoplay></lottie-player>
+        <h4 style="color: #7C3AED; font-weight: 700; font-family: 'Poppins', sans-serif; font-size: 1.5em; margin: 0;">ConvoNest</h4>
+      </div>
+      <p style="color: #E5E7EB; font-family: 'Poppins', sans-serif; font-size: 0.95em; line-height: 1.5; margin: 15px 0;">A secure chat app with end-to-end encryption using AES and RSA, built with React, Express, MongoDB, Axios, JWT, and Nodemailer, featuring hashed passwords.</p>
+      <a href="https://github.com/ghshamad312/convonest" style="color: #7C3AED; text-decoration: none; font-family: 'Poppins', sans-serif; font-weight: 500; font-size: 0.9em; transition: color 0.3s;" onmouseover="this.style.color='#A78BFA'" onmouseout="this.style.color='#7C3AED'">View on GitHub</a>
     </div>
-    <div style="background: #1F2937; padding: 20px; border-radius: 15px; box-shadow: 0 4px 15px rgba(0,0,0,0.2); transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
-      <h4 style="color: #7C3AED; font-weight: 600; font-family: 'Poppins', sans-serif;">Personal Portfolio</h4>
-      <p style="color: #D1D5DB; font-family: 'Poppins', sans-serif;">A sleek, responsive portfolio website showcasing my projects and skills, built using React for a dynamic user experience.</p>
-      <a href="https://github.com/ghshamad312/portfolio" style="color: #7C3AED; text-decoration: none; font-family: 'Poppins', sans-serif;">View on GitHub</a>
+    <div style="background: linear-gradient(145deg, #2D3748, #1F2937); padding: 25px; border-radius: 20px; box-shadow: 0 6px 20px rgba(0,0,0,0.3), 0 0 10px rgba(124, 58, 237, 0.2); transition: transform 0.3s ease, box-shadow 0.3s ease;" onmouseover="this.style.transform='scale(1.03)'; this.style.boxShadow='0 8px 25px rgba(0,0,0,0.4), 0 0 15px rgba(124, 58, 237, 0.4)'" onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='0 6px 20px rgba(0,0,0,0.3), 0 0 10px rgba(124, 58, 237, 0.2)'">
+      <div style="display: flex; align-items: center; gap: 15px;">
+        <lottie-player src="https://lottie.host/9ef94bb1-68e3-4f77-8fcc-46104dff4547/2c3d4e5f6g.json" background="transparent" speed="1" style="width: 50px; height: 50px;" loop autoplay></lottie-player>
+        <h4 style="color: #7C3AED; font-weight: 700; font-family: 'Poppins', sans-serif; font-size: 1.5em; margin: 0;">Personal Portfolio</h4>
+      </div>
+      <p style="color: #E5E7EB; font-family: 'Poppins', sans-serif; font-size: 0.95em; line-height: 1.5; margin: 15px 0;">A responsive portfolio website built with React, showcasing my projects and skills with a modern, user-friendly design.</p>
+      <a href="https://github.com/ghshamad312/portfolio" style="color: #7C3AED; text-decoration: none; font-family: 'Poppins', sans-serif; font-weight: 500; font-size: 0.9em; transition: color 0.3s;" onmouseover="this.style.color='#A78BFA'" onmouseout="this.style.color='#7C3AED'">View on GitHub</a>
     </div>
-    <div style="background: #1F2937; padding: 20px; border-radius: 15px; box-shadow: 0 4px 15px rgba(0,0,0,0.2); transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
-      <h4 style="color: #7C3AED; font-weight: 600; font-family: 'Poppins', sans-serif;">ToDo App</h4>
-      <p style="color: #D1D5DB; font-family: 'Poppins', sans-serif;">A simple yet effective ToDo application built with React, utilizing browser cookies to persist tasks locally for seamless task management.</p>
-      <a href="https://github.com/GHSHamad312/Todo-List-App-using-React-Vite" style="color: #7C3AED; text-decoration: none; font-family: 'Poppins', sans-serif;">View on GitHub</a>
+    <div style="background: linear-gradient(145deg, #2D3748, #1F2937); padding: 25px; border-radius: 20px; box-shadow: 0 6px 20px rgba(0,0,0,0.3), 0 0 10px rgba(124, 58, 237, 0.2); transition: transform 0.3s ease, box-shadow 0.3s ease;" onmouseover="this.style.transform='scale(1.03)'; this.style.boxShadow='0 8px 25px rgba(0,0,0,0.4), 0 0 15px rgba(124, 58, 237, 0.4)'" onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='0 6px 20px rgba(0,0,0,0.3), 0 0 10px rgba(124, 58, 237, 0.2)'">
+      <div style="display: flex; align-items: center; gap: 15px;">
+        <lottie-player src="https://lottie.host/9ef94bb1-68e3-4f77-8fcc-46104dff4547/3d4e5f6g7h.json" background="transparent" speed="1" style="width: 50px; height: 50px;" loop autoplay></lottie-player>
+        <h4 style="color: #7C3AED; font-weight: 700; font-family: 'Poppins', sans-serif; font-size: 1.5em; margin: 0;">ToDo App</h4>
+      </div>
+      <p style="color: #E5E7EB; font-family: 'Poppins', sans-serif; font-size: 0.95em; line-height: 1.5; margin: 15px 0;">A streamlined ToDo app built with React, using browser cookies to store tasks locally for efficient task management.</p>
+      <a href="https://github.com/ghshamad312/todo-app" style="color: #7C3AED; text-decoration: none; font-family: 'Poppins', sans-serif; font-weight: 500; font-size: 0.9em; transition: color 0.3s;" onmouseover="this.style.color='#A78BFA'" onmouseout="this.style.color='#7C3AED'">View on GitHub</a>
     </div>
-    <div style="background: #1F2937; padding: 20px; border-radius: 15px; box-shadow: 0 4px 15px rgba(0,0,0,0.2); transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
-      <h4 style="color: #7C3AED; font-weight: 600; font-family: 'Poppins', sans-serif;">Music Player</h4>
-      <p style="color: #D1D5DB; font-family: 'Poppins', sans-serif;">An early project featuring a music player built with vanilla JavaScript, HTML, and CSS, designed to play and control audio tracks with a clean interface.</p>
-      <a href="https://github.com/GHSHamad312/music-player-website" style="color: #7C3AED; text-decoration: none; font-family: 'Poppins', sans-serif;">View on GitHub</a>
+    <div style="background: linear-gradient(145deg, #2D3748, #1F2937); padding: 25px; border-radius: 20px; box-shadow: 0 6px 20px rgba(0,0,0,0.3), 0 0 10px rgba(124, 58, 237, 0.2); transition: transform 0.3s ease, box-shadow 0.3s ease;" onmouseover="this.style.transform='scale(1.03)'; this.style.boxShadow='0 8px 25px rgba(0,0,0,0.4), 0 0 15px rgba(124, 58, 237, 0.4)'" onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='0 6px 20px rgba(0,0,0,0.3), 0 0 10px rgba(124, 58, 237, 0.2)'">
+      <div style="display: flex; align-items: center; gap: 15px;">
+        <lottie-player src="https://lottie.host/9ef94bb1-68e3-4f77-8fcc-46104dff4547/4e5f6g7h8i.json" background="transparent" speed="1" style="width: 50px; height: 50px;" loop autoplay></lottie-player>
+        <h4 style="color: #7C3AED; font-weight: 700; font-family: 'Poppins', sans-serif; font-size: 1.5em; margin: 0;">Music Player</h4>
+      </div>
+      <p style="color: #E5E7EB; font-family: 'Poppins', sans-serif; font-size: 0.95em; line-height: 1.5; margin: 15px 0;">An early project featuring a music player with a sleek interface, built using vanilla JavaScript, HTML, and CSS for audio playback control.</p>
+      <a href="https://github.com/ghshamad312/music-player" style="color: #7C3AED; text-decoration: none; font-family: 'Poppins', sans-serif; font-weight: 500; font-size: 0.9em; transition: color 0.3s;" onmouseover="this.style.color='#A78BFA'" onmouseout="this.style.color='#7C3AED'">View on GitHub</a>
     </div>
   </div>
 </div>
-
 ---
 
 ## 📊 GitHub Stats
