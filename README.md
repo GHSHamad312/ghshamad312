@@ -1,110 +1,239 @@
 <div align="center">
- 
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="80px" />
- 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=38&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Hamad+Ali+Shah!;CS+Undergrad+@NUST;Web+%26+Mobile+Developer;Building+Digital+Solutions" alt="Typing SVG" />
 
-  <br/>
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=38&duration=3000&pause=1000&color=7C3AED&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Hamad+Ali+Shah!;CS+Undergrad+@NUST;Web+%26+AI+Developer;Open-Source+Enthusiast;Let's+Build+Something+Awesome!" alt="Typing SVG" />
+
+  <br/><br/>
+
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" height="200" style="border-radius: 15px; box-shadow: 0 4px 15px rgba(0,0,0,0.2);" />
+
+</div>
+
+
+
+---
+
+
+
+##  About Me
+
+I'm a **Computer Science undergraduate** @NUST passionate about Web Dev, Flutter, and AI. I love building innovative software and learning about intelligent systems. From crafting UI in Flutter to building encrypted chat apps and exploring AI with Python, I'm always up for a challenge.
+
+
+
+---
+
+
+
+##  Technologies & Tools
+
+
+
+###  Programming Languages
+
+<p align="center">
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="50" alt="C++"/>
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" alt="Python"/>
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" alt="JavaScript"/>
+
+</p>
+
+
+
+###  Frontend
+
+<p align="center">
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" alt="HTML"/>
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" alt="CSS"/>
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="50" alt="React"/>
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="50" alt="TailwindCSS"/>
+
+</p>
+
+
+
+###  Backend
+
+<p align="center">
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="50" alt="NodeJS"/>
+
+  <img src="https://skillicons.dev/icons?i=express" height="50" alt="Express"/>
+
+</p>
+
+
+
+###  Mobile
+
+<p align="center">
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="50" alt="Flutter"/>
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="50" alt="Dart"/>
+
+</p>
+
+
+
+###  Databases
+
+<p align="center">
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="50" alt="MySQL"/>
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="50" alt="MongoDB"/>
+
+</p>
+
+
+
+---
+
+
+
+##  Featured Projects
+
+
+
+<div align="center">
+
+  
+
+<table>
+
+<tr>
+
+<td align="center" width="400">
+
+  <img src="https://skillicons.dev/icons?i=flutter" height="40" />
+
+  <h3>Go Green Quetta</h3>
+
+  <p>A Flutter app promoting eco-friendly bus transport in Quetta. Currently in development.</p>
+
+  <a href="https://github.com/ghshamad312/go-green-quetta">View on GitHub</a>
+
+</td>
+
+<td align="center" width="400">
+
+  <img src="https://skillicons.dev/icons?i=react" height="40" />
+
+  <h3>ConvoNest</h3>
+
+  <p>End-to-end encrypted chat app with AES + RSA using MERN stack.</p>
+
+  <a href="https://github.com/ghshamad312/convonest">View on GitHub</a>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td align="center" width="400">
+
+  <img src="https://skillicons.dev/icons?i=react" height="40" />
+
+  <h3>Portfolio Website</h3>
+
+  <p>My responsive portfolio built with React, showcasing my work and style.</p>
+
+  <a href="https://github.com/ghshamad312/portfolio">View on GitHub</a>
+
+</td>
+
+<td align="center" width="400">
+
+  <img src="https://skillicons.dev/icons?i=js" height="40" />
+
+  <h3>Music Player</h3>
+
+  <p>Music player UI using JavaScript, HTML & CSS. Sleek and clean!</p>
+
+  <a href="https://github.com/ghshamad312/music-player">View on GitHub</a>
+
+</td>
+
+</tr>
+
+</table>
+
+</div>
+
+
+
+---
+
+
+
+##  GitHub Stats
+
+
+
+<p align="center">
+
+  <img src="https://github-readme-stats.vercel.app/api?username=ghshamad312&show_icons=true&theme=dracula&hide_border=true" height="200" />
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ghshamad312&layout=compact&theme=dracula&hide_border=true" height="200" />
+
+</p>
+
+
+
+<p align="center">
+
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ghshamad312&theme=dracula&hide_border=true&area=true" />
+
+</p>
+
+
+
+---
+
+
+
+##  Let's Connect
+
+
+
+<p align="center">
 
   <a href="https://www.linkedin.com/in/ghshamad/">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="LinkedIn" />
+
   </a>
+
   <a href="https://twitter.com/hamadcodess">
-    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" />
+
+    <img src="https://skillicons.dev/icons?i=twitter" height="40" alt="Twitter" />
+
   </a>
+
   <a href="mailto:ghshamad312@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+
+    <img src="https://skillicons.dev/icons?i=gmail" height="40" alt="Gmail" />
+
   </a>
 
-</div>
+</p>
 
-<br/>
 
----
-
-### ⚡ About Me
-
-I am a **Computer Science undergraduate** at **NUST**, driven by the intersection of creative design and robust engineering. My focus lies in Full Stack Web Development, Mobile Apps (Flutter), and Artificial Intelligence.
-
-- 🔭 I’m currently working on **Go Green Quetta** (Flutter)
-- 🌱 I’m currently learning **Advanced AI & Neural Networks**
-- 💬 Ask me about **React, Flutter, and System Design**
-- ⚡ Fun fact: I love turning complex problems into clean UI/UX
 
 ---
 
-### 🛠️ Technologies & Tools
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,python,js,dart,html,css,react,tailwind,flutter,nodejs,express,mysql,mongodb,git,vscode,firebase&perline=8&theme=dark" />
-</div>
 
----
+<p align="center">
 
-### 🚀 Featured Projects
+  <img src="https://komarev.com/ghpvc/?username=ghshamad312&style=flat-square&color=7C3AED" alt="Profile Views" />
 
-<div align="center">
-<table border="0">
-  <tr>
-    <td width="400px" align="center" valign="top">
-      <h3>🚌 Go Green Quetta</h3>
-      <br/>
-      <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
-      <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
-      <br/><br/>
-      <p>A smart eco-friendly bus transport app for Quetta. Features live tracking, ticket booking, and route management.</p>
-      <a href="https://github.com/ghshamad312/gogreenquetta"><b>View Repository</b></a>
-    </td>
-    <td width="400px" align="center" valign="top">
-      <h3>🔒 ConvoNest</h3>
-      <br/>
-      <img src="https://img.shields.io/badge/MERN_Stack-000000?style=flat-square&logo=react&logoColor=61DAFB" />
-      <img src="https://img.shields.io/badge/Security-AES+RSA-red?style=flat-square" />
-      <br/><br/>
-      <p>A secure chat application featuring End-to-End encryption using AES and RSA algorithms.</p>
-      <a href="https://github.com/ghshamad312/convonest"><b>View Repository</b></a>
-    </td>
-  </tr>
-  <tr>
-    <td width="400px" align="center" valign="top">
-      <h3>🎨 Portfolio Website</h3>
-      <br/>
-      <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-      <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
-      <br/><br/>
-      <p>My personal digital space showcasing my projects, resume, and contact info in a responsive layout.</p>
-      <a href="https://github.com/ghshamad312/portfolio"><b>View Repository</b></a>
-    </td>
-    <td width="400px" align="center" valign="top">
-      <h3>🎵 Music Player</h3>
-      <br/>
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-      <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-      <br/><br/>
-      <p>A lightweight, aesthetic music player interface with custom controls and playlist management.</p>
-      <a href="https://github.com/ghshamad312/music-player"><b>View Repository</b></a>
-    </td>
-  </tr>
-</table>
-</div>
-
----
-
-### 📊 GitHub Analytics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ghshamad312&show_icons=true&theme=dracula&hide_border=true&bg_color=0d1117&count_private=true" height="180" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ghshamad312&layout=compact&theme=dracula&hide_border=true&bg_color=0d1117" height="180" alt="languages graph" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ghshamad312&theme=dracula&hide_border=true&area=true&bg_color=0d1117" width="100%" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=ghshamad312&style=flat-square&color=A78BFA" alt="Profile Views" />
-</div>
+</p>
