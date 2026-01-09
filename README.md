@@ -99,15 +99,15 @@ I'm a **Computer Science undergraduate** at **NUST**, passionate about building 
 ### 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ghshamad&show_icons=true&theme=dracula&hide_border=true&bg_color=0d1117&ring_color=7C3AED" height="180" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ghshamad312&show_icons=true&theme=dracula&hide_border=true&bg_color=0d1117&ring_color=7C3AED" height="180" alt="stats graph" />
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ghshamad&layout=compact&theme=dracula&hide_border=true&bg_color=0d1117&ring_color=7C3AED" height="180" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ghshamad312&layout=compact&theme=dracula&hide_border=true&bg_color=0d1117&ring_color=7C3AED" height="180" alt="languages graph" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ghshamad&theme=dracula&hide_border=true&area=true&color=7C3AED" width="100%" alt="activity graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ghshamad312&theme=dracula&hide_border=true&area=true&color=7C3AED" width="100%" alt="activity graph" />
 </div>
 
 ---
