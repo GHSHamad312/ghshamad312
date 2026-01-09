@@ -96,21 +96,18 @@ I'm a **Computer Science undergraduate** at **NUST**, passionate about building 
 
 ---
 
-### 🏆 Achievements & Activity
+### 📊 Github Overview
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ghshamad312&theme=radical&no-frame=true&margin-w=15&row=1" alt="trophies" />
-  
-  <br/><br/>
-
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ghshamad312&theme=dracula&hide_border=true" alt="streak stats" />
+  <a href="https://github.com/ghshamad312?tab=repositories">
+    <img src="https://img.shields.io/badge/Repositories-See%20All-7C3AED?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://github.com/ghshamad312">
+    <img src="https://img.shields.io/github/followers/ghshamad312?label=Followers&style=for-the-badge&color=7C3AED&logo=github" />
+  </a>
 </div>
 
 <br/>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ghshamad312&theme=dracula&hide_border=true&area=true&color=7C3AED" width="100%" />
-</div>
 
 ---
 
