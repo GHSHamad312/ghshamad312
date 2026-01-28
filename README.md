@@ -82,7 +82,7 @@ I'm a **Computer Science undergraduate** at **NUST**, passionate about building 
     </td>
     <td align="center">
       <h3>🎵 Music Player</h3>
-       <a href="https://github.com/ghshamad312/music-player">
+       <a href="https://github.com/GHSHamad312/music-player-website">
         <img src="https://img.shields.io/badge/Status-Completed-success?style=flat-square" />
       </a>
       <br/><br/>
