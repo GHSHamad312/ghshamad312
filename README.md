@@ -50,7 +50,7 @@ I'm a **Computer Science undergraduate** at **NUST**, passionate about building 
   <tr>
     <td width="50%" align="center">
       <h3>🚌 Go Green Quetta</h3>
-      <a href="https://github.com/ghshamad312/go-green-quetta">
+      <a href="https://github.com/GHSHamad312/GoGreenQuetta">
         <img src="https://img.shields.io/badge/Status-In%20Development-orange?style=flat-square" />
       </a>
       <br/><br/>
