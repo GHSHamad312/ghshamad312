@@ -1,159 +1,118 @@
 <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=7C3AED&height=220&section=header&text=Hamad%20Ali%20Shah&fontSize=80&animation=fadeIn&fontAlignY=35&desc=CS%20Undergrad%20%40%20NUST&descAlignY=55&descSize=25" width="100%"/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=200&section=header&text=Hamad%20Ali%20Shah&fontSize=58&fontColor=e6edf3&animation=fadeIn&fontAlignY=38&desc=CS%20Undergrad%20%40%20NUST%20%C2%B7%20Flutter%20%C2%B7%20MERN%20%C2%B7%20AI&descAlignY=60&descSize=15&descColor=8b949e" width="100%"/>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=7C3AED&center=true&vCenter=true&width=500&lines=Web+%26+AI+Developer;Flutter+Enthusiast;Open-Source+Contributor;Building+Systems+That+Scale" alt="Typing SVG" />
+  </a>
 
-<br/>
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&duration=2800&pause=1000&color=79C0FF&center=true&vCenter=true&width=480&lines=Building+systems+that+scale.;Crafting+UIs+that+breathe.;Exploring+the+frontiers+of+AI.;Open+source+%26+always+learning.)](https://git.io/typing-svg)
-
-<br/>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=79c0ff&labelColor=0d1117)](https://www.linkedin.com/in/ghshamad/)
-[![Twitter](https://img.shields.io/badge/Twitter-0d1117?style=for-the-badge&logo=twitter&logoColor=79c0ff&labelColor=0d1117)](https://twitter.com/hamadcodess)
-[![Gmail](https://img.shields.io/badge/Gmail-0d1117?style=for-the-badge&logo=gmail&logoColor=79c0ff&labelColor=0d1117)](mailto:ghshamad312@gmail.com)
-[![Profile Views](https://komarev.com/ghpvc/?username=ghshamad312&style=for-the-badge&color=79c0ff&labelColor=0d1117&label=VIEWS)](https://github.com/ghshamad312)
-
+  <p align="center">
+    <a href="https://www.linkedin.com/in/ghshamad/">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    </a>
+    <a href="https://twitter.com/hamadcodess">
+      <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+    </a>
+    <a href="mailto:ghshamad312@gmail.com">
+      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    </a>
+  </p>
 </div>
 
 ---
 
-### `> whoami`
+### ⚡ About Me
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=ghshamad312&show_icons=true&theme=github_dark&hide_border=true&title_color=79c0ff&icon_color=79c0ff&text_color=8b949e&bg_color=0d1117&count_private=true&rank_icon=github" width="310"/>
+<img align="right" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="180" style="border-radius: 10px;" />
 
-CS undergrad at **NUST**, based in Quetta. I build clean backends, polished mobile UIs, and intelligent systems. I care about code that reads well, software that performs, and design that respects the user.
+I'm a **Computer Science undergraduate** at **NUST**, passionate about building innovative solutions. My journey involves crafting sleek UIs with **Flutter**, developing robust backends with the **MERN stack**, and exploring the frontiers of **Artificial Intelligence**.
 
-Currently shipping **Go Green Quetta** — a smarter way to move through my city.
+* 🔭 I’m currently working on **Go Green Quetta**
+* 🌱 I’m currently learning **Advanced AI & System Architecture**
+* 💬 Ask me about **Flutter, React, or Python**
+* 📫 How to reach me: **ghshamad312@gmail.com**
 
-```yaml
-status   : open to collaborations ✦
-focus    : Go Green Quetta 🚌
-learning : Advanced AI & System Architecture
-ask me   : Flutter · React · Python
-contact  : ghshamad312@gmail.com
-```
-
-<br clear="right"/>
+<br/>
 
 ---
 
-### `> ls ./projects`
+### 🛠️ Technologies & Tools
 
-<table>
-<tr>
-<td width="50%" valign="top">
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,python,js,dart,html,css,tailwind,react,flutter,nodejs,express,mysql,mongodb,firebase,git,vscode&perline=8&theme=dark" />
+</div>
 
-**🚌 Go Green Quetta**
-&nbsp;![wip](https://img.shields.io/badge/●_In_Development-e3b341?style=flat-square&labelColor=161b22)
+---
 
-Smart eco-friendly transit app for Quetta. Real-time routing, trip planning, reduced carbon footprint.
+### 🚀 Featured Projects
 
-![Flutter](https://img.shields.io/badge/Flutter-161b22?style=flat-square&logo=flutter&logoColor=02569B)
-![Firebase](https://img.shields.io/badge/Firebase-161b22?style=flat-square&logo=firebase&logoColor=FFCA28)
-
-[→ Repository](https://github.com/GHSHamad312/GoGreenQuetta)
-
-</td>
-<td width="50%" valign="top">
-
-**🔒 ConvoNest**
-&nbsp;![done](https://img.shields.io/badge/●_Completed-56d364?style=flat-square&labelColor=161b22)
-
-End-to-end encrypted chat using AES + RSA hybrid encryption. Private conversations, done right.
-
-![React](https://img.shields.io/badge/React-161b22?style=flat-square&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-161b22?style=flat-square&logo=nodedotjs&logoColor=339933)
-
-[→ Repository](https://github.com/ghshamad312/convonest)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-**🌐 Portfolio**
-&nbsp;![live](https://img.shields.io/badge/●_Live-56d364?style=flat-square&labelColor=161b22)
-
-Personal digital space. Built to reflect how I think about design and code.
-
-![React](https://img.shields.io/badge/React-161b22?style=flat-square&logo=react&logoColor=61DAFB)
-![Tailwind](https://img.shields.io/badge/Tailwind-161b22?style=flat-square&logo=tailwind-css&logoColor=38B2AC)
-
-[→ Repository](https://github.com/ghshamad312/portfolio)
-
-</td>
-<td width="50%" valign="top">
-
-**🎵 Music Player**
-&nbsp;![done](https://img.shields.io/badge/●_Completed-56d364?style=flat-square&labelColor=161b22)
-
-Minimal music player UI. Zero frameworks — just JavaScript, doing its job elegantly.
-
-![JavaScript](https://img.shields.io/badge/JavaScript-161b22?style=flat-square&logo=javascript&logoColor=F7DF1E)
-![CSS3](https://img.shields.io/badge/CSS3-161b22?style=flat-square&logo=css3&logoColor=1572B6)
-
-[→ Repository](https://github.com/GHSHamad312/music-player-website)
-
-</td>
-</tr>
+<div align="center">
+<table border="0">
+  <tr>
+    <td width="50%" align="center">
+      <h3>🚌 Go Green Quetta</h3>
+      <a href="https://github.com/GHSHamad312/GoGreenQuetta">
+        <img src="https://img.shields.io/badge/Status-In%20Development-orange?style=flat-square" />
+      </a>
+      <br/><br/>
+      <p>A smart, eco-friendly mobile application for public transportation in Quetta.</p>
+      <img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black"/>
+    </td>
+    <td width="50%" align="center">
+      <h3>🔒 ConvoNest</h3>
+      <a href="https://github.com/ghshamad312/convonest">
+        <img src="https://img.shields.io/badge/Status-Completed-success?style=flat-square" />
+      </a>
+      <br/><br/>
+      <p>End-to-end encrypted chat application secured with AES + RSA algorithms.</p>
+      <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB"/>
+      <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <h3>🎨 Portfolio Website</h3>
+       <a href="https://github.com/ghshamad312/portfolio">
+        <img src="https://img.shields.io/badge/Status-Live-success?style=flat-square" />
+      </a>
+      <br/><br/>
+      <p>My personal digital playground showcasing my work, skills, and design style.</p>
+      <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB"/>
+      <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat&logo=tailwind-css&logoColor=white"/>
+    </td>
+    <td align="center">
+      <h3>🎵 Music Player</h3>
+       <a href="https://github.com/GHSHamad312/music-player-website">
+        <img src="https://img.shields.io/badge/Status-Completed-success?style=flat-square" />
+      </a>
+      <br/><br/>
+      <p>A sleek, lightweight music player UI built with vanilla web technologies.</p>
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
+      <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white"/>
+    </td>
+  </tr>
 </table>
-
----
-
-### `> cat stack.txt`
-
-**Languages**&nbsp;
-![C++](https://img.shields.io/badge/C++-161b22?style=flat-square&logo=cplusplus&logoColor=00599C)
-![Python](https://img.shields.io/badge/Python-161b22?style=flat-square&logo=python&logoColor=3776AB)
-![JavaScript](https://img.shields.io/badge/JavaScript-161b22?style=flat-square&logo=javascript&logoColor=F7DF1E)
-![Dart](https://img.shields.io/badge/Dart-161b22?style=flat-square&logo=dart&logoColor=0175C2)
-
-**Frontend & Mobile**&nbsp;
-![Flutter](https://img.shields.io/badge/Flutter-161b22?style=flat-square&logo=flutter&logoColor=02569B)
-![React](https://img.shields.io/badge/React-161b22?style=flat-square&logo=react&logoColor=61DAFB)
-![Tailwind](https://img.shields.io/badge/Tailwind-161b22?style=flat-square&logo=tailwind-css&logoColor=38B2AC)
-![HTML5](https://img.shields.io/badge/HTML5-161b22?style=flat-square&logo=html5&logoColor=E34F26)
-![CSS3](https://img.shields.io/badge/CSS3-161b22?style=flat-square&logo=css3&logoColor=1572B6)
-
-**Backend & Databases**&nbsp;
-![Node.js](https://img.shields.io/badge/Node.js-161b22?style=flat-square&logo=nodedotjs&logoColor=339933)
-![Express](https://img.shields.io/badge/Express-161b22?style=flat-square&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-161b22?style=flat-square&logo=mongodb&logoColor=47A248)
-![MySQL](https://img.shields.io/badge/MySQL-161b22?style=flat-square&logo=mysql&logoColor=4479A1)
-![Firebase](https://img.shields.io/badge/Firebase-161b22?style=flat-square&logo=firebase&logoColor=FFCA28)
-
-**Tools**&nbsp;
-![Git](https://img.shields.io/badge/Git-161b22?style=flat-square&logo=git&logoColor=F05032)
-![VS Code](https://img.shields.io/badge/VS_Code-161b22?style=flat-square&logo=visual-studio-code&logoColor=007ACC)
-
----
-
-### `> git log --stats`
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=ghshamad312&show_icons=true&theme=github_dark&hide_border=true&title_color=79c0ff&icon_color=79c0ff&text_color=8b949e&bg_color=0d1117&count_private=true"/>
-&nbsp;
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghshamad312&layout=compact&theme=github_dark&hide_border=true&title_color=79c0ff&text_color=8b949e&bg_color=0d1117&langs_count=6"/>
-
-<br/>
-
-<img width="55%" src="https://streak-stats.demolab.com?user=ghshamad312&theme=github-dark-blue&hide_border=true&background=0d1117&ring=79c0ff&fire=79c0ff&currStreakLabel=79c0ff&dates=8b949e&sideNums=e6edf3&sideLabels=8b949e"/>
-
-<br/>
-
-<img width="88%" src="https://github-readme-activity-graph.vercel.app/graph?username=ghshamad312&theme=github-compact&bg_color=0d1117&color=79c0ff&line=79c0ff&point=e6edf3&area=true&area_color=79c0ff&hide_border=true"/>
-
 </div>
 
 ---
 
-<div align="center">
+### 📊 Github Overview
 
-*"First, solve the problem. Then, write the code."*
+<div align="center">
+  <a href="https://github.com/ghshamad312?tab=repositories">
+    <img src="https://img.shields.io/badge/Repositories-See%20All-7C3AED?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://github.com/ghshamad312">
+    <img src="https://img.shields.io/github/followers/ghshamad312?label=Followers&style=for-the-badge&color=7C3AED&logo=github" />
+  </a>
+</div>
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=100&section=footer" width="100%"/>
+---
 
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=ghshamad312&style=flat-square&color=7C3AED&label=Profile+Views" alt="Profile Views" />
+  <br/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=7C3AED&height=100&section=footer" width="100%"/>
 </div>
