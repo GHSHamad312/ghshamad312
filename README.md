@@ -47,9 +47,10 @@ I'm a **Computer Science undergraduate** at **NUST**, passionate about building 
 
 <h2 align="center"> 🚀 Featured Projects </h2>
 
+<!-- SUBSECTION: MOBILE DEV -->
+<h3 align="center"> 📱 Mobile Development </h3>
 <div align="center">
 <table border="0">
-  <!-- ROW 1 -->
   <tr>
     <td width="50%" align="center">
       <h3>Go Green Quetta</h3>
@@ -62,20 +63,6 @@ I'm a **Computer Science undergraduate** at **NUST**, passionate about building 
       <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black"/>
     </td>
     <td width="50%" align="center">
-      <h3>ConvoNest</h3>
-      <a href="https://github.com/ghshamad312/convonest">
-        <img src="https://img.shields.io/badge/Status-Completed-success?style=flat-square" />
-      </a>
-      <br/><br/>
-      <p>End-to-end encrypted chat application secured with AES + RSA algorithms.</p>
-      <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB"/>
-      <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white"/>
-    </td>
-  </tr>
-  
-  <!-- ROW 2 -->
-  <tr>
-    <td width="50%" align="center">
       <h3>Is He Dead</h3>
        <a href="https://github.com/ghshamad312/ishedead">
         <img src="https://img.shields.io/badge/Status-Live-success?style=flat-square" />
@@ -85,7 +72,29 @@ I'm a **Computer Science undergraduate** at **NUST**, passionate about building 
       <img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white"/>
       <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black"/>
     </td>
-     <td width="50%" align="center">
+  </tr>
+</table>
+</div>
+
+<br/>
+
+<!-- SUBSECTION: WEB DEV -->
+<h3 align="center"> 🌐 Web Development </h3>
+<div align="center">
+<table border="0">
+  <!-- WEB ROW 1 -->
+  <tr>
+    <td width="50%" align="center">
+      <h3>ConvoNest</h3>
+      <a href="https://github.com/ghshamad312/convonest">
+        <img src="https://img.shields.io/badge/Status-Completed-success?style=flat-square" />
+      </a>
+      <br/><br/>
+      <p>End-to-end encrypted chat application secured with AES + RSA algorithms.</p>
+      <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB"/>
+      <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white"/>
+    </td>
+    <td width="50%" align="center">
       <h3>Portfolio Website</h3>
        <a href="https://github.com/GHSHamad312/portfolio">
         <img src="https://img.shields.io/badge/Status-Completed-success?style=flat-square" />
@@ -96,8 +105,7 @@ I'm a **Computer Science undergraduate** at **NUST**, passionate about building 
       <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat&logo=tailwind-css&logoColor=white"/>
     </td>
   </tr>
-  
-  <!-- ROW 3 -->
+  <!-- WEB ROW 2 -->
   <tr>
      <td width="50%" align="center">
       <h3>Todo App</h3>
@@ -118,6 +126,26 @@ I'm a **Computer Science undergraduate** at **NUST**, passionate about building 
       <p>A sleek, lightweight music player UI built with vanilla web technologies.</p>
       <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
       <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white"/>
+    </td>
+  </tr>
+</table>
+</div>
+
+<br/>
+
+<!-- SUBSECTION: AI & ML -->
+<h3 align="center"> 🤖 AI & Machine Learning </h3>
+<div align="center">
+<table border="0">
+  <tr>
+    <td width="100%" align="center">
+      <h3>Intelligent System Project</h3>
+      <img src="https://img.shields.io/badge/Status-In_Progress-orange?style=flat-square" />
+      <br/><br/>
+      <p>Currently architecting an AI solution utilizing Deep Learning and NLP pipelines. Stay tuned for the upcoming deployment!</p>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
+      <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white"/>
     </td>
   </tr>
 </table>
