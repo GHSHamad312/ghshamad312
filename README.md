@@ -37,8 +37,23 @@ I'm a **Computer Science undergraduate** at **NUST**, passionate about building 
 
 <h2 align="center"> 🛠️ Technologies & Tools </h2>
 
+<h3 align="center"> 💻 Core Stack </h3>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,python,js,dart,html,css,tailwind,react,flutter,nodejs,express,mysql,mongodb,firebase,git,vscode&perline=8&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=cpp,python,js,ts,dart,html,css,tailwind,react,flutter,nodejs,express,mysql,mongodb,firebase&perline=8&theme=dark" />
+</div>
+
+<br/>
+
+<h3 align="center"> 🤖 AI / ML & Data Science </h3>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=pandas,numpy,sklearn,tensorflow&perline=4&theme=dark" />
+</div>
+
+<br/>
+
+<h3 align="center"> ⚙️ DevOps, OS & Tools </h3>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=docker,azure,linux,ubuntu,git,vscode&perline=6&theme=dark" />
 </div>
 
 <br/>
@@ -47,7 +62,6 @@ I'm a **Computer Science undergraduate** at **NUST**, passionate about building 
 
 <h2 align="center"> 🚀 Featured Projects </h2>
 
-<!-- SUBSECTION: MOBILE DEV -->
 <h3 align="center"> 📱 Mobile Development </h3>
 <div align="center">
 <table border="0">
@@ -78,11 +92,9 @@ I'm a **Computer Science undergraduate** at **NUST**, passionate about building 
 
 <br/>
 
-<!-- SUBSECTION: WEB DEV -->
 <h3 align="center"> 🌐 Web Development </h3>
 <div align="center">
 <table border="0">
-  <!-- WEB ROW 1 -->
   <tr>
     <td width="50%" align="center">
       <h3>ConvoNest</h3>
@@ -92,6 +104,7 @@ I'm a **Computer Science undergraduate** at **NUST**, passionate about building 
       <br/><br/>
       <p>End-to-end encrypted chat application secured with AES + RSA algorithms.</p>
       <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB"/>
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white"/>
       <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white"/>
     </td>
     <td width="50%" align="center">
@@ -105,7 +118,6 @@ I'm a **Computer Science undergraduate** at **NUST**, passionate about building 
       <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat&logo=tailwind-css&logoColor=white"/>
     </td>
   </tr>
-  <!-- WEB ROW 2 -->
   <tr>
      <td width="50%" align="center">
       <h3>Todo App</h3>
@@ -133,19 +145,19 @@ I'm a **Computer Science undergraduate** at **NUST**, passionate about building 
 
 <br/>
 
-<!-- SUBSECTION: AI & ML -->
 <h3 align="center"> 🤖 AI & Machine Learning </h3>
 <div align="center">
 <table border="0">
   <tr>
     <td width="100%" align="center">
-      <h3>Intelligent System Project</h3>
+      <h3>Intelligent Predictive Engine</h3>
       <img src="https://img.shields.io/badge/Status-In_Progress-orange?style=flat-square" />
       <br/><br/>
-      <p>Currently architecting an AI solution utilizing Deep Learning and NLP pipelines. Stay tuned for the upcoming deployment!</p>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
-      <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white"/>
+      <p>Developing data pipelines and deep learning models for predictive analysis. Containerized with Docker and ready for cloud deployment.</p>
+      <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white"/>
       <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white"/>
     </td>
   </tr>
 </table>
