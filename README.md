@@ -20,7 +20,7 @@
 
 ---
 
-### About Me
+<h2 align="center"> 👨‍💻 About Me </h2>
 
 <img align="right" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="180" style="border-radius: 10px;" />
 
@@ -35,18 +35,21 @@ I'm a **Computer Science undergraduate** at **NUST**, passionate about building 
 
 ---
 
-### Technologies & Tools
+<h2 align="center"> 🛠️ Technologies & Tools </h2>
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=cpp,python,js,dart,html,css,tailwind,react,flutter,nodejs,express,mysql,mongodb,firebase,git,vscode&perline=8&theme=dark" />
 </div>
 
+<br/>
+
 ---
 
-### Featured Projects
+<h2 align="center"> 🚀 Featured Projects </h2>
 
 <div align="center">
 <table border="0">
+  <!-- ROW 1 -->
   <tr>
     <td width="50%" align="center">
       <h3>Go Green Quetta</h3>
@@ -69,38 +72,44 @@ I'm a **Computer Science undergraduate** at **NUST**, passionate about building 
       <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white"/>
     </td>
   </tr>
+  
+  <!-- ROW 2 -->
   <tr>
-    <td align="center">
+    <td width="50%" align="center">
       <h3>Is He Dead</h3>
        <a href="https://github.com/ghshamad312/ishedead">
         <img src="https://img.shields.io/badge/Status-Live-success?style=flat-square" />
       </a>
       <br/><br/>
-      <p>Industry grade mobile application made in flutter. Dead man switch</p>
-      <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB"/>
-      <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat&logo=tailwind-css&logoColor=white"/>
+      <p>Industry-grade mobile application built in Flutter functioning as a dead man's switch.</p>
+      <img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black"/>
     </td>
-     <td align="center">
-      <h3>Portfolio website</h3>
+     <td width="50%" align="center">
+      <h3>Portfolio Website</h3>
        <a href="https://github.com/GHSHamad312/portfolio">
         <img src="https://img.shields.io/badge/Status-Completed-success?style=flat-square" />
       </a>
       <br/><br/>
-      <p>A sleek, lightweight music player UI built with vanilla web technologies.</p>
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
-      <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white"/>
+      <p>A modern, interactive personal portfolio website showcasing my skills and projects.</p>
+      <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB"/>
+      <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat&logo=tailwind-css&logoColor=white"/>
     </td>
-     <td align="center">
-      <h3>Todo app</h3>
+  </tr>
+  
+  <!-- ROW 3 -->
+  <tr>
+     <td width="50%" align="center">
+      <h3>Todo App</h3>
        <a href="https://github.com/GHSHamad312/Todo-List-App-using-React-Vite">
         <img src="https://img.shields.io/badge/Status-Completed-success?style=flat-square" />
       </a>
       <br/><br/>
-      <p>A sleek, lightweight music player UI built with vanilla web technologies.</p>
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
-      <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white"/>
+      <p>A responsive and interactive To-Do list application built with React and Vite.</p>
+      <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB"/>
+      <img src="https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white"/>
     </td>
-    <td align="center">
+    <td width="50%" align="center">
       <h3>Music Player</h3>
        <a href="https://github.com/GHSHamad312/music-player-website">
         <img src="https://img.shields.io/badge/Status-Completed-success?style=flat-square" />
@@ -116,7 +125,7 @@ I'm a **Computer Science undergraduate** at **NUST**, passionate about building 
 
 ---
 
-### Github Overview
+<h2 align="center"> 📈 Github Overview </h2>
 
 <div align="center">
   <a href="https://github.com/ghshamad312?tab=repositories">
