@@ -20,7 +20,7 @@
 
 ---
 
-### ⚡ About Me
+### About Me
 
 <img align="right" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="180" style="border-radius: 10px;" />
 
@@ -35,7 +35,7 @@ I'm a **Computer Science undergraduate** at **NUST**, passionate about building 
 
 ---
 
-### 🛠️ Technologies & Tools
+### Technologies & Tools
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=cpp,python,js,dart,html,css,tailwind,react,flutter,nodejs,express,mysql,mongodb,firebase,git,vscode&perline=8&theme=dark" />
@@ -43,15 +43,15 @@ I'm a **Computer Science undergraduate** at **NUST**, passionate about building 
 
 ---
 
-### 🚀 Featured Projects
+### Featured Projects
 
 <div align="center">
 <table border="0">
   <tr>
     <td width="50%" align="center">
-      <h3>🚌 Go Green Quetta</h3>
+      <h3>Go Green Quetta</h3>
       <a href="https://github.com/GHSHamad312/GoGreenQuetta">
-        <img src="https://img.shields.io/badge/Status-In%20Development-orange?style=flat-square" />
+        <img src="https://img.shields.io/badge/Status-Completed-success?style=flat-square" />
       </a>
       <br/><br/>
       <p>A smart, eco-friendly mobile application for public transportation in Quetta.</p>
@@ -59,7 +59,7 @@ I'm a **Computer Science undergraduate** at **NUST**, passionate about building 
       <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black"/>
     </td>
     <td width="50%" align="center">
-      <h3>🔒 ConvoNest</h3>
+      <h3>ConvoNest</h3>
       <a href="https://github.com/ghshamad312/convonest">
         <img src="https://img.shields.io/badge/Status-Completed-success?style=flat-square" />
       </a>
@@ -71,17 +71,37 @@ I'm a **Computer Science undergraduate** at **NUST**, passionate about building 
   </tr>
   <tr>
     <td align="center">
-      <h3>🎨 Portfolio Website</h3>
-       <a href="https://github.com/ghshamad312/portfolio">
+      <h3>Is He Dead</h3>
+       <a href="https://github.com/ghshamad312/ishedead">
         <img src="https://img.shields.io/badge/Status-Live-success?style=flat-square" />
       </a>
       <br/><br/>
-      <p>My personal digital playground showcasing my work, skills, and design style.</p>
+      <p>Industry grade mobile application made in flutter. Dead man switch</p>
       <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB"/>
       <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat&logo=tailwind-css&logoColor=white"/>
     </td>
+     <td align="center">
+      <h3>Portfolio website</h3>
+       <a href="https://github.com/GHSHamad312/portfolio">
+        <img src="https://img.shields.io/badge/Status-Completed-success?style=flat-square" />
+      </a>
+      <br/><br/>
+      <p>A sleek, lightweight music player UI built with vanilla web technologies.</p>
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
+      <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white"/>
+    </td>
+     <td align="center">
+      <h3>Todo app</h3>
+       <a href="https://github.com/GHSHamad312/Todo-List-App-using-React-Vite">
+        <img src="https://img.shields.io/badge/Status-Completed-success?style=flat-square" />
+      </a>
+      <br/><br/>
+      <p>A sleek, lightweight music player UI built with vanilla web technologies.</p>
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
+      <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white"/>
+    </td>
     <td align="center">
-      <h3>🎵 Music Player</h3>
+      <h3>Music Player</h3>
        <a href="https://github.com/GHSHamad312/music-player-website">
         <img src="https://img.shields.io/badge/Status-Completed-success?style=flat-square" />
       </a>
@@ -96,7 +116,7 @@ I'm a **Computer Science undergraduate** at **NUST**, passionate about building 
 
 ---
 
-### 📊 Github Overview
+### Github Overview
 
 <div align="center">
   <a href="https://github.com/ghshamad312?tab=repositories">
