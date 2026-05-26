@@ -161,12 +161,12 @@ I'm a **Computer Science undergraduate** at **NUST**, passionate about engineeri
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ghshamad312&show_icons=true&hide_border=true&title_color=7C3AED&icon_color=7C3AED&text_color=ffffff&bg_color=0D1117" width="48%" alt="GitHub Stats" />
+  <img src="https://camos-qscijr15x-hamads-projects-5cca166a.vercel.app/api?username=ghshamad312&show_icons=true&hide_border=true&title_color=7C3AED&icon_color=7C3AED&text_color=ffffff&bg_color=0D1117" width="48%" alt="GitHub Stats" />
   <img src="https://streak-stats.demolab.com?user=ghshamad312&hide_border=true&title_color=7C3AED&icon_color=7C3AED&text_color=ffffff&bg_color=0D1117&ring=7C3AED&fire=7C3AED&currStreakNum=ffffff" width="48%" alt="GitHub Streak" />
 </div>
 <br/>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghshamad312&layout=compact&hide_border=true&title_color=7C3AED&text_color=ffffff&bg_color=0D1117" width="45%" alt="Top Languages" />
+  <img src="https://camos-qscijr15x-hamads-projects-5cca166a.vercel.app/api/top-langs/?username=ghshamad312&layout=compact&hide_border=true&title_color=7C3AED&text_color=ffffff&bg_color=0D1117" width="45%" alt="Top Languages" />
 </div>
 
 <br/>
