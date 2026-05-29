@@ -6,7 +6,7 @@
 
   <a href="https://git.io/typing-svg">
 
-    <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=7C3AED&center=true&vCenter=true&width=600&lines=Web+%26+Mobile+Developer;Flutter+Enthusiast;AI+%26+Deep+Learning;Building+Systems+That+Scale" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=7C3AED&center=true&vCenter=true&width=600&lines=Web+%26+Mobile+Developer;Flutter+Enthusiast;AI+%26+Deep+Learning;Building+Systems+That+Scale" alt="Typing SVG" />
 
   </a>
 
@@ -14,28 +14,27 @@
 
   <p align="center">
 
-    <a href="https://www.linkedin.com/in/ghshamad/">
+   <a href="https://www.linkedin.com/in/ghshamad/">
 
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 
-    </a>
+  </a>
 
-    <a href="https://twitter.com/hamadcodess">
+  <a href="https://twitter.com/hamadcodess">
 
-      <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
 
-    </a>
+  </a>
 
-    <a href="mailto:ghshamad312@gmail.com">
+  <a href="mailto:ghshamad312@gmail.com">
 
-      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 
-    </a>
+  </a>
 
   </p>
 
 </div>
-
 
 
 ---
@@ -156,45 +155,45 @@ I'm a **Computer Science undergraduate** at **NUST**, passionate about engineeri
 
   <tr>
 
-    <td width="50%" align="center">
+  <td width="50%" align="center">
 
-      <h3>Go Green Quetta</h3>
+  <h3>Go Green Quetta</h3>
 
-      <a href="https://github.com/GHSHamad312/GoGreenQuetta">
+  <a href="https://github.com/GHSHamad312/GoGreenQuetta">
 
-        <img src="https://img.shields.io/badge/Status-Completed-success?style=flat-square" />
+  <img src="https://img.shields.io/badge/Status-Completed-success?style=flat-square" />
 
-      </a>
+  </a>
 
-      <br/><br/>
+  <br/><br/>
 
-      <p>A smart, eco-friendly mobile application for streamlined public transportation.</p>
+  <p>A smart, eco-friendly mobile application for streamlined public transportation.</p>
 
-      <img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white"/>
 
-      <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black"/>
 
-    </td>
+  </td>
 
-    <td width="50%" align="center">
+  <td width="50%" align="center">
 
-      <h3>Is He Dead</h3>
+  <h3>Is He Dead</h3>
 
-       <a href="https://github.com/ghshamad312/ishedead">
+  <a href="https://github.com/ghshamad312/ishedead">
 
-        <img src="https://img.shields.io/badge/Status-Live-success?style=flat-square" />
+ <img src="https://img.shields.io/badge/Status-Live-success?style=flat-square" />
 
-      </a>
+</a>
 
-      <br/><br/>
+  <br/><br/>
 
-      <p>Industry-grade elderly welfare system functioning as a reliable check-in switch.</p>
+  <p>Industry-grade elderly welfare system functioning as a reliable check-in switch.</p>
 
-      <img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white"/>
 
-      <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black"/>
 
-    </td>
+ </td>
 
   </tr>
 
@@ -216,49 +215,46 @@ I'm a **Computer Science undergraduate** at **NUST**, passionate about engineeri
 
   <tr>
 
-    <td width="50%" align="center">
+   <td width="50%" align="center">
 
-      <h3>ConvoNest</h3>
+  <h3>ConvoNest</h3>
 
-      <a href="https://github.com/ghshamad312/convonest">
+   <a href="https://github.com/ghshamad312/convonest">
 
-        <img src="https://img.shields.io/badge/Status-Completed-success?style=flat-square" />
+   <img src="https://img.shields.io/badge/Status-Completed-success?style=flat-square" />
 
-      </a>
+  </a>
 
-      <br/><br/>
+   <br/><br/>
 
-      <p>End-to-end encrypted chat architecture secured with advanced AES + RSA algorithms.</p>
+  <p>End-to-end encrypted chat architecture secured with advanced AES + RSA algorithms.</p>
 
-      <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB"/>
 
-      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white"/>
 
-      <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white"/>
+   <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white"/>
 
-    </td>
+ </td>
+  <td width="50%" align="center">
 
-    <td width="50%" align="center">
-
-      <h3>Portfolio Website</h3>
-
+   <h3>Portfolio Website</h3>
        <a href="https://github.com/GHSHamad312/portfolio">
-
         <img src="https://img.shields.io/badge/Status-Completed-success?style=flat-square" />
 
-      </a>
+   </a>
 
-      <br/><br/>
+  <br/><br/>
 
-      <p>A modern, interactive personal portfolio showcasing my engineering skills.</p>
+   <p>A modern, interactive personal portfolio showcasing my engineering skills.</p>
 
-      <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB"/>
+   <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB"/>
 
-      <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat&logo=tailwind-css&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat&logo=tailwind-css&logoColor=white"/>
 
-    </td>
+ </td>
 
-  </tr>
+</tr>
 
 </table>
 
@@ -277,24 +273,23 @@ I'm a **Computer Science undergraduate** at **NUST**, passionate about engineeri
 <table border="0">
 
   <tr>
+  <td width="100%" align="center">
 
-    <td width="100%" align="center">
+   <h3>Intelligent Predictive Engine</h3>
 
-      <h3>Intelligent Predictive Engine</h3>
+   <img src="https://img.shields.io/badge/Status-In_Progress-orange?style=flat-square" />
 
-      <img src="https://img.shields.io/badge/Status-In_Progress-orange?style=flat-square" />
+   <br/><br/>
 
-      <br/><br/>
+  <p>Developing data pipelines and deep learning models for complex predictive analysis. Containerized with Docker, optimized for cloud deployment.</p>
 
-      <p>Developing data pipelines and deep learning models for complex predictive analysis. Containerized with Docker, optimized for cloud deployment.</p>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white"/>
 
-      <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white"/>
+   <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white"/>
 
-      <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white"/>
+   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white"/>
 
-      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white"/>
-
-    </td>
+  </td>
 
   </tr>
 
