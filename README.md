@@ -1,9 +1,6 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=7C3AED&height=220&section=header&text=Hamad%20Ali%20Shah&fontSize=80&animation=fadeIn&fontAlignY=35&desc=CS%20Undergrad%20%40%20NUST&descAlignY=55&descSize=25" width="100%"/>
-
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=7C3AED&center=true&vCenter=true&width=600&lines=Web+%26+Mobile+Developer;Flutter+Enthusiast;AI+%26+Deep+Learning;Building+Systems+That+Scale" alt="Typing SVG" />
-  </a>
+  <h1>✨ Hamad Ali Shah ✨</h1>
+  <p><strong>Web & Mobile Developer | Flutter Enthusiast | AI & Deep Learning | Building Systems That Scale</strong></p>
 
   <p align="center">
     <a href="https://www.linkedin.com/in/ghshamad/">
@@ -21,8 +18,7 @@
 ---
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=32&duration=1&pause=10000&color=7C3AED&center=true&vCenter=true&width=300&lines=👨‍💻+About+Me" alt="About Me" />
-  <br/>
+  <h2>👨‍💻 About Me</h2>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=7C3AED&height=2&width=200" alt="Divider" />
 </div>
 <br/>
@@ -41,8 +37,7 @@ I'm a **Computer Science undergraduate** at **NUST**, passionate about engineeri
 ---
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=32&duration=1&pause=10000&color=7C3AED&center=true&vCenter=true&width=500&lines=🛠️+Technologies+%26+Stack" alt="Tech Stack" />
-  <br/>
+  <h2>🛠️ Technologies & Stack</h2>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=7C3AED&height=2&width=350" alt="Divider" />
 </div>
 <br/>
@@ -67,8 +62,7 @@ I'm a **Computer Science undergraduate** at **NUST**, passionate about engineeri
 ---
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=32&duration=1&pause=10000&color=7C3AED&center=true&vCenter=true&width=500&lines=🚀+Featured+Projects" alt="Projects" />
-  <br/>
+  <h2>🚀 Featured Projects</h2>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=7C3AED&height=2&width=300" alt="Divider" />
 </div>
 <br/>
@@ -154,26 +148,7 @@ I'm a **Computer Science undergraduate** at **NUST**, passionate about engineeri
 ---
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=32&duration=1&pause=10000&color=7C3AED&center=true&vCenter=true&width=500&lines=📈+GitHub+Analytics" alt="GitHub Stats" />
   <br/>
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=7C3AED&height=2&width=300" alt="Divider" />
-</div>
-<br/>
-
-<div align="center">
-  <img src="https://camos-qscijr15x-hamads-projects-5cca166a.vercel.app/api?username=ghshamad312&show_icons=true&hide_border=true&title_color=7C3AED&icon_color=7C3AED&text_color=ffffff&bg_color=0D1117" width="48%" alt="GitHub Stats" />
-  <img src="https://streak-stats.demolab.com?user=ghshamad312&hide_border=true&title_color=7C3AED&icon_color=7C3AED&text_color=ffffff&bg_color=0D1117&ring=7C3AED&fire=7C3AED&currStreakNum=ffffff" width="48%" alt="GitHub Streak" />
-</div>
-<br/>
-<div align="center">
-  <img src="https://camos-qscijr15x-hamads-projects-5cca166a.vercel.app/api/top-langs/?username=ghshamad312&layout=compact&hide_border=true&title_color=7C3AED&text_color=ffffff&bg_color=0D1117" width="45%" alt="Top Languages" />
-</div>
-
-<br/>
-
----
-
-<div align="center">
   <img src="https://komarev.com/ghpvc/?username=ghshamad312&style=flat-square&color=7C3AED&label=Profile+Views" alt="Profile Views" />
   <br/>
   <img src="https://capsule-render.vercel.app/api?type=waving&color=7C3AED&height=100&section=footer" width="100%"/>
