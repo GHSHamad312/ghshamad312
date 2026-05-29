@@ -61,7 +61,7 @@ I'm a **Computer Science undergraduate** at **NUST**, passionate about engineeri
   <br/><br/>
 
   <h3>🤖 AI, Machine Learning & OS</h3>
-  <img src="https://skillicons.dev/icons?i=tensorflow,scikit,pandas,numpy,git,linux,ubuntu,vscode&perline=8&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=tensorflow,git,linux,ubuntu,vscode&perline=8&theme=dark" />
 </div>
 
 <br/>
