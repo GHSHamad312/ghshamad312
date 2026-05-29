@@ -155,15 +155,19 @@ I'm a **Computer Science undergraduate** at **NUST**, passionate about engineeri
       <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white"/>
       <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white"/>
     </td>
-    <td width="50%" align="center">
-      <h3>🧠 Intelligent Predictive Engine</h3>
-      <img src="https://img.shields.io/badge/Status-In_Progress-orange?style=flat-square" />
+        <td width="50%" align="center">
+      <h3>🧠 Brain Tumor Classification</h3>
+      <a href="https://github.com/GHSHamad312/brain-tumor-classification">
+        <img src="https://img.shields.io/badge/Status-Completed-success?style=flat-square" />
+      </a>
       <br/><br/>
-      <p>Developing data pipelines and deep learning models for complex predictive analysis. Containerized with Docker, optimized for cloud deployment.</p>
+      <p>Deep learning pipeline classifying brain MRI scans into <strong>4 tumor categories</strong> using a custom CNN and <strong>EfficientNetB0</strong> transfer learning. Achieved <strong>80.19% accuracy</strong> on 7,200 MRI images with a Gradio inference UI.</p>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
       <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Gradio-F97316?style=flat&logoColor=white"/>
     </td>
+
   </tr>
 </table>
 </div>
