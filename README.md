@@ -23,8 +23,7 @@
 ---
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=32&duration=1&pause=10000&color=7C3AED&center=true&vCenter=true&width=300&lines=👨💻+About+Me" alt="About Me" />
-  <br/>
+  <h2>👨‍💻 About Me</h2>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=7C3AED&height=2&width=200" alt="Divider" />
 </div>
 
@@ -44,8 +43,7 @@ I'm a **Computer Science undergraduate** at **NUST**, passionate about engineeri
 ---
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=32&duration=1&pause=10000&color=7C3AED&center=true&vCenter=true&width=500&lines=🛠️+Technologies+%26+Stack" alt="Tech Stack" />
-  <br/>
+  <h2>🛠️ Technologies & Stack</h2>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=7C3AED&height=2&width=350" alt="Divider" />
 </div>
 
@@ -71,8 +69,7 @@ I'm a **Computer Science undergraduate** at **NUST**, passionate about engineeri
 ---
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=32&duration=1&pause=10000&color=7C3AED&center=true&vCenter=true&width=500&lines=🚀+Featured+Projects" alt="Projects" />
-  <br/>
+  <h2>🚀 Featured Projects</h2>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=7C3AED&height=2&width=300" alt="Divider" />
 </div>
 
@@ -170,6 +167,36 @@ I'm a **Computer Science undergraduate** at **NUST**, passionate about engineeri
   </tr>
 </table>
 </div>
+
+---
+
+<div align="center">
+  <h2>📊 GitHub Stats & Activity</h2>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=7C3AED&height=2&width=350" alt="Divider" />
+</div>
+
+<br/>
+
+<!-- ROW 1: Main Stats & Top Languages using your custom Vercel App -->
+<div align="center">
+  <img src="https://my-readme-stats-flax.vercel.app/api?username=ghshamad312&show_icons=true&theme=transparent&hide_border=true&title_color=7C3AED&text_color=777777&icon_color=7C3AED" alt="Hamad's GitHub Stats" width="48%" />
+  <img src="https://my-readme-stats-flax.vercel.app/api/top-langs/?username=ghshamad312&layout=compact&theme=transparent&hide_border=true&title_color=7C3AED&text_color=777777" alt="Top Languages" width="48%" />
+</div>
+
+<br/>
+
+<!-- ROW 2: Contribution Graph & Streak Stats -->
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ghshamad312&theme=transparent&hide_border=true&title_color=7C3AED&text_color=777777&icon_color=7C3AED&ring=7C3AED&fire=7C3AED&currStreakLabel=7C3AED" alt="GitHub Streak" width="48%" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ghshamad312&bg_color=transparent&color=7C3AED&line=7C3AED&point=FFFFFF&area=true&hide_border=true" alt="Activity Graph" width="98%" />
+</div>
+
+<br/>
 
 ---
 
