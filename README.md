@@ -23,7 +23,7 @@
 ---
 
 <div align="center">
-  <h2>👨‍💻 About Me</h2>
+  <h2> About Me</h2>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=7C3AED&height=2&width=200" alt="Divider" />
 </div>
 
@@ -33,10 +33,10 @@
 
 I'm a **Computer Science undergraduate** at **NUST**, passionate about engineering robust, full-stack solutions. My technical journey involves crafting sleek, cross-platform UIs with **Flutter**, developing scalable backends with the **MERN stack**, and exploring high-level systems architecture and **Artificial Intelligence**—from Convolutional Neural Networks to AI-driven threat detection systems.
 
-* 🔭 I'm currently building **Go Green Quetta** & scaling **Is He Dead**
-* 🌱 I'm deeply focused on **Advanced AI, Deep Learning (CNNs), & Distributed Systems**
-* 💬 Ask me about **Flutter, React, Python, or Big Data Frameworks**
-* 📫 Reach out to me: **ghshamad312@gmail.com**
+*  I'm currently building **Go Green Quetta** & scaling **Is He Dead**
+*  I'm deeply focused on **Advanced AI, Deep Learning (CNNs), & Distributed Systems**
+*  Ask me about **Flutter, React, Python, or Big Data Frameworks**
+*  Reach out to me: **ghshamad312@gmail.com**
 
 <br/>
 
@@ -106,7 +106,7 @@ I'm a **Computer Science undergraduate** at **NUST**, passionate about engineeri
 
 <br/>
 
-<h3 align="center">🌐 Web Architecture & Security</h3>
+<h3 align="center"> Web Architecture & Security</h3>
 
 <div align="center">
 <table border="0">
@@ -138,13 +138,13 @@ I'm a **Computer Science undergraduate** at **NUST**, passionate about engineeri
 
 <br/>
 
-<h3 align="center">🤖 Intelligence & Predictive Systems</h3>
+<h3 align="center"> Intelligence & Predictive Systems</h3>
 
 <div align="center">
 <table border="0">
   <tr>
     <td width="50%" align="center">
-      <h3>✈️ Flight Delay Prediction</h3>
+      <h3> Flight Delay Prediction</h3>
       <a href="https://github.com/GHSHamad312/flight-delay-prediction">
         <img src="https://img.shields.io/badge/Status-Completed-success?style=flat-square" />
       </a>
@@ -156,7 +156,7 @@ I'm a **Computer Science undergraduate** at **NUST**, passionate about engineeri
       <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white"/>
     </td>
         <td width="50%" align="center">
-      <h3>🧠 Brain Tumor Classification</h3>
+      <h3> Brain Tumor Classification</h3>
       <a href="https://github.com/GHSHamad312/brain-tumor-classification">
         <img src="https://img.shields.io/badge/Status-Completed-success?style=flat-square" />
       </a>
