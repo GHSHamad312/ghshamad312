@@ -50,21 +50,22 @@ I'm a **Computer Science undergraduate** at **NUST**, passionate about engineeri
 <br/>
 
 <div align="center">
-  <h3>📱 Frontend & Mobile Development</h3>
-  <img src="https://skillicons.dev/icons?i=js,ts,react,tailwind,flutter,dart,html,css&perline=8&theme=dark" />
+  <h3>📱 Frontend, Mobile & Design</h3>
+  <img src="https://skillicons.dev/icons?i=js,ts,react,tailwind,vite,flutter,dart,html,css,figma&perline=10&theme=dark" />
 
   <br/><br/>
 
   <h3>⚙️ Backend, Architecture & Cloud</h3>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,python,cpp,mysql,mongodb,firebase,docker&perline=8&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,python,cpp,mysql,mongodb,firebase,docker,azure,postman&perline=10&theme=dark" />
 
   <br/><br/>
 
-  <h3>🤖 AI, Machine Learning & OS</h3>
-  <img src="https://skillicons.dev/icons?i=tensorflow,git,linux,ubuntu,vscode&perline=8&theme=dark" />
+  <h3>🤖 AI, Data & Core Tools</h3>
+  <img src="https://skillicons.dev/icons?i=tensorflow,sklearn,git,githubactions,linux,ubuntu,vscode&perline=7&theme=dark" />
 </div>
 
 <br/>
+
 
 ---
 
