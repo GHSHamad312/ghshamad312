@@ -93,7 +93,7 @@ I'm a **Computer Science undergraduate** at **NUST**, passionate about engineeri
     <td width="50%" align="center">
       <h3>Is He Dead</h3>
       <a href="https://github.com/ghshamad312/ishedead">
-        <img src="https://img.shields.io/badge/Status-Live-success?style=flat-square" />
+        <img src="https://img.shields.io/badge/Status-Completed-success?style=flat-square" />
       </a>
       <br/><br/>
       <p>Industry-grade elderly welfare system functioning as a reliable check-in switch.</p>
