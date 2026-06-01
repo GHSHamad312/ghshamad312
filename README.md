@@ -134,6 +134,22 @@ I'm a **Computer Science undergraduate** at **NUST**, passionate about engineeri
       <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat&logo=tailwind-css&logoColor=white"/>
     </td>
   </tr>
+  <tr>
+    <td width="50%" align="center">
+      <h3>Exam Seating Plan Manager</h3>
+      <a href="https://github.com/GHSHamad312/exam-seating-manager">
+        <img src="https://img.shields.io/badge/Status-Completed-success?style=flat-square" />
+      </a>
+      <br/><br/>
+      <p>Full-stack web application automating conflict-free academic seat allocation using algorithmic constraints to prevent cheating.</p>
+      <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white"/>
+      <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/>
+    </td>
+    <td width="50%" align="center">
+      <!-- Left empty intentionally to maintain 2-column grid layout balance -->
+    </td>
+  </tr>
 </table>
 </div>
 
@@ -156,7 +172,7 @@ I'm a **Computer Science undergraduate** at **NUST**, passionate about engineeri
       <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white"/>
       <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white"/>
     </td>
-        <td width="50%" align="center">
+    <td width="50%" align="center">
       <h3> Brain Tumor Classification</h3>
       <a href="https://github.com/GHSHamad312/brain-tumor-classification">
         <img src="https://img.shields.io/badge/Status-Completed-success?style=flat-square" />
@@ -168,7 +184,6 @@ I'm a **Computer Science undergraduate** at **NUST**, passionate about engineeri
       <img src="https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras&logoColor=white"/>
       <img src="https://img.shields.io/badge/Gradio-F97316?style=flat&logoColor=white"/>
     </td>
-
   </tr>
 </table>
 </div>
