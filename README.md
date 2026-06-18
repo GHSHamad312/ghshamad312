@@ -76,6 +76,54 @@ I'm a **Computer Science undergraduate** at **NUST**, passionate about engineeri
 
 <br/>
 
+<h3 align="center">🤖 Agentic AI & Intelligence</h3>
+
+<div align="center">
+<table border="0">
+  <tr>
+    <td width="50%" align="center">
+      <h3>PolicyPilot AI</h3>
+      <a href="https://github.com/GHSHamad312/Hackathon">
+        <img src="https://img.shields.io/badge/Status-Completed-success?style=flat-square" />
+      </a>
+      <br/><br/>
+      <p>An autonomous compliance & workflow engine for enterprises. Built with a 6-agent sequential architecture and RAG over PDFs, it fully automates HR and operational workflows.</p>
+      <img src="https://img.shields.io/badge/Google_Gemini-8E75B2?style=flat&logo=googlegemini&logoColor=white"/>
+      <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white"/>
+      <img src="https://img.shields.io/badge/FAISS-0467DF?style=flat&logo=meta&logoColor=white"/>
+    </td>
+    <td width="50%" align="center">
+      <h3> Flight Delay Prediction</h3>
+      <a href="https://github.com/GHSHamad312/flight-delay-prediction">
+        <img src="https://img.shields.io/badge/Status-Completed-success?style=flat-square" />
+      </a>
+      <br/><br/>
+      <p>Production-grade ML pipeline on <strong>538,837</strong> real U.S. flight records. Predicts whether a flight will be delayed and by how many minutes — using only pre-departure data. Achieved <strong>81.1% accuracy</strong>.</p>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white"/>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center" colspan="2">
+      <h3> Brain Tumor Classification</h3>
+      <a href="https://github.com/GHSHamad312/brain-tumor-classification">
+        <img src="https://img.shields.io/badge/Status-Completed-success?style=flat-square" />
+      </a>
+      <br/><br/>
+      <p>Deep learning pipeline classifying brain MRI scans into <strong>4 tumor categories</strong> using a custom CNN and <strong>EfficientNetB0</strong> transfer learning. Achieved <strong>80.19% accuracy</strong> on 7,200 MRI images with a Gradio inference UI.</p>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
+      <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Gradio-F97316?style=flat&logoColor=white"/>
+    </td>
+  </tr>
+</table>
+</div>
+
+<br/>
+
 <h3 align="center">📱 Mobile Applications</h3>
 
 <div align="center">
@@ -124,18 +172,6 @@ I'm a **Computer Science undergraduate** at **NUST**, passionate about engineeri
       <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white"/>
     </td>
     <td width="50%" align="center">
-      <h3>Portfolio Website</h3>
-      <a href="https://github.com/GHSHamad312/portfolio">
-        <img src="https://img.shields.io/badge/Status-Completed-success?style=flat-square" />
-      </a>
-      <br/><br/>
-      <p>A modern, interactive personal portfolio showcasing my engineering skills.</p>
-      <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB"/>
-      <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat&logo=tailwind-css&logoColor=white"/>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" align="center">
       <h3>Exam Seating Plan Manager</h3>
       <a href="https://github.com/GHSHamad312/exam-seating-manager">
         <img src="https://img.shields.io/badge/Status-Completed-success?style=flat-square" />
@@ -146,43 +182,17 @@ I'm a **Computer Science undergraduate** at **NUST**, passionate about engineeri
       <img src="https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white"/>
       <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/>
     </td>
-    <td width="50%" align="center">
-      <!-- Left empty intentionally to maintain 2-column grid layout balance -->
-    </td>
   </tr>
-</table>
-</div>
-
-<br/>
-
-<h3 align="center"> Intelligence & Predictive Systems</h3>
-
-<div align="center">
-<table border="0">
   <tr>
-    <td width="50%" align="center">
-      <h3> Flight Delay Prediction</h3>
-      <a href="https://github.com/GHSHamad312/flight-delay-prediction">
+    <td width="50%" align="center" colspan="2">
+      <h3>Portfolio Website</h3>
+      <a href="https://github.com/GHSHamad312/portfolio">
         <img src="https://img.shields.io/badge/Status-Completed-success?style=flat-square" />
       </a>
       <br/><br/>
-      <p>Production-grade ML pipeline on <strong>538,837</strong> real U.S. flight records. Predicts whether a flight will be delayed and by how many minutes — using only pre-departure data. Achieved <strong>81.1% accuracy</strong> with Gradient Boosting & weather API integration.</p>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white"/>
-    </td>
-    <td width="50%" align="center">
-      <h3> Brain Tumor Classification</h3>
-      <a href="https://github.com/GHSHamad312/brain-tumor-classification">
-        <img src="https://img.shields.io/badge/Status-Completed-success?style=flat-square" />
-      </a>
-      <br/><br/>
-      <p>Deep learning pipeline classifying brain MRI scans into <strong>4 tumor categories</strong> using a custom CNN and <strong>EfficientNetB0</strong> transfer learning. Achieved <strong>80.19% accuracy</strong> on 7,200 MRI images with a Gradio inference UI.</p>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
-      <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Gradio-F97316?style=flat&logoColor=white"/>
+      <p>A modern, interactive personal portfolio showcasing my engineering skills.</p>
+      <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB"/>
+      <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat&logo=tailwind-css&logoColor=white"/>
     </td>
   </tr>
 </table>
